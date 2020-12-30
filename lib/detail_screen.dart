@@ -70,7 +70,7 @@ class DetailScreen extends StatelessWidget {
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 16,
-                  fontFamily: 'Staatliches',
+                  fontFamily: 'Oxygen',
                 ),
               ),
             ),
